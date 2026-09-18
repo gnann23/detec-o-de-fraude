@@ -1,2 +1,1 @@
-# detec-o-de-fraude
-Detecção de fraudes em transações de cartão de crédito com Machine Learning
+Este projeto simula um cenário real de uma instituição financeira que precisa identificar transações fraudulentas em meio a milhares de transações legítimas. O grande desafio técnico aqui não é só treinar um modelo, mas lidar com um problema extremamente desbalanceado: apenas 0,17% das transações do dataset são fraudes.
